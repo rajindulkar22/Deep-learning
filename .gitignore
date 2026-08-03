@@ -1,0 +1,18 @@
+# Environments
+.venv/
+venv/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials — never commit these
+kaggle.json
+.env
+
+# Downloaded datasets
+data/
+rice-type-classification/
